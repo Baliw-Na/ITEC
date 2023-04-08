@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+    background-color: rgb(235, 232, 227);
+   }
+
+.screenshot {
+    border-radius: 8px;
+    
+}
+
+.text {
+    font-family: cursive;
+    font-size: 9px;
+    padding-right: 50px;
+    padding-left: 245px;
+    text-align: center;
+}
+
+.pt3 {
+    background-image: linear-gradient(to right, #F27121cc, #E94057cc, #8A2387cc);
+}
+
+
